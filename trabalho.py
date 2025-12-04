@@ -56,7 +56,7 @@ while tentativas > 0:
             if responsavel.replace(' ', '').isalpha():
                 break
             else:
-                print('\nDIGITE APENAS LETRAS.\n\nTente novamente.')
+                print('\nDIGITE APENAS LETRAS.\n\n Tente novamente.')
 
 
         # Máquinas disponíveis e escolhidas
